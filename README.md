@@ -28,7 +28,7 @@ Languages: HTML, CSS, JavaScript\
 Environment: Node.js (Express)\
 Frameworks: React (Router, Dom, Markdown)\
 Database: SQLite (ORM Sequelize)\
-Tools: nodemon, axios, js-cookie\
+Tools: nodemon, axios, js-cookie
 
 ## Core Concepts
 
@@ -41,6 +41,8 @@ Backend:
  * User authenticaion middleware + hashed passowrds + conditional API calls
 
 Frontend:
+* Create React App
+*
 
 
 ## License
