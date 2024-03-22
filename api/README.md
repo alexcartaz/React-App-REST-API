@@ -1,5 +1,5 @@
 # Rest-API
-This is a simulated backend for a <a href="https://github.com/alexcartaz/React-App" target="_blank">React App client</a> that creates a very basic instructor course portal. It is part of Units 9 and 10 for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
+This is a simulated backend for a <a href="https://github.com/alexcartaz/React-App" target="_blank">React App client</a> that creates a hypothetical instructor course portal. It is part of Units 9 and 10 for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
 
 Here is a Postman screenshot listing the valid endpoints:
 <kbd>
