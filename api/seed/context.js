@@ -61,7 +61,7 @@ class Context {
       if (data.length === 1) {
         [record] = data;
       } else if (data.length > 1) {
-        throw new Error('Unexpected number of rows encountered.');
+        throw new Error('Unexpected number of rows.');
       }
     }
     return record;
@@ -77,10 +77,10 @@ class Context {
       if (keys.length === 1) {
         value = record[keys[0]];
       } else {
-        throw new Error('Unexpected number of values encountered.');
+        throw new Error('Unexpected number of values.');
       }
     } else {
-      throw new Error('Unexpected number of rows encountered.');
+      throw new Error('Unexpected number of rows.');
     }
     return value;
   }

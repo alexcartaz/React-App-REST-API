@@ -1,10 +1,10 @@
 'use strict';
 
-// Library to help parse the user's credentials from the Authorization header
+// these libraries are necessary to support user authentication
 const auth = require('basic-auth');
 const bcrypt = require('bcryptjs');
-const { User } = require('../models');
 
+const { User } = require('../models');
 
 /**
  * middleware for basic authentication.
