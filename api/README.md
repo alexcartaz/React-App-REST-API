@@ -1,11 +1,11 @@
 # Rest-API
-This is a simulated backend for a <a href="https://github.com/alexcartaz/React-App" target="_blank">React App client</a> simulating viewing, creating, updating, and deleting courses by instructors. It is part of Units 9 and 10 for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
+This is a simulated backend for a <a href="https://github.com/alexcartaz/React-App" target="_blank">React App client</a> that creates a very basic instructor course portal. It is part of Units 9 and 10 for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
 
 Here is a Postman screenshot listing the valid endpoints:
 ![](https://github.com/alexcartaz/assets/blob/main/postman%20rest%20api.png)
 (Image of Postman demonstrating API endpoints)
 
-## How It's Made
+## Tech Stack
 
 Tech used: HTML, CSS, JavaScript, Node.js, Express, SQLite, and SQL ORM Sequelize
 
