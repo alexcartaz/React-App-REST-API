@@ -3,8 +3,8 @@ Alex Carter:
 * <a href="https://www.linkedin.com/in/alexandertcarter/" target="_blank">LinkedIn</a>
 * <a href="https://medium.com/@AlexCartaz" target="_blank">Medium</a>
 
-# React-App
-This app simulates a multipurpose course portal, where a logged out user can view the course catalog and a logged in user can create courses, as well as update and delete courses they created. It is the Unit 10 final project for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
+# React-App-REST-API
+This app simulates a multipurpose course portal, where anyone can view the course catalog and a logged in user can create courses, as well as update and delete courses they created. It is the Unit 10 final project for the online Full Stack JavaScript Techdegree program offered by <a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">Team Treehouse</a>.
 
 This app contains to separate applications, a simulated backend comprised of SQLite and a REST API that can be launched by navigating to the /api folder and running
 
@@ -20,15 +20,15 @@ The frontend can be launched by navigating to the /client folder and running
   npm start
 ```
 
-This app is simple, but meant to demonstrate some mastery of full stack JavaScript concepts, frameworks, tools, and functionality.
+The purpose of this app is to demonstrate the full stack JavaScript concepts learned throughout this online tech degree program.
 
 ## Tech Stack
 
-Languages: HTML, CSS, JavaScript
-Environment: Node.js (Express)
-Frameworks: React (Router, Dom, Markdown)
-Database: SQLite (ORM Sequelize)
-Tools: nodemon, axios, js-cookie
+Languages: HTML, CSS, JavaScript\
+Environment: Node.js (Express)\
+Frameworks: React (Router, Dom, Markdown)\
+Database: SQLite (ORM Sequelize)\
+Tools: nodemon, axios, js-cookie\
 
 ## Core Concepts
 
