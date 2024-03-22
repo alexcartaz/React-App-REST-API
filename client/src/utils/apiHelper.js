@@ -21,7 +21,6 @@ export const api = (
     // basic authentication (node.js module: basic-auth) requires the username and password to be separated by ":"
     if (credentials) {
         const encodedCredentials = btoa(`${credentials.emailAddress}:${credentials.password}`);
-
         options.headers["Authorization"] = `Basic ${encodedCredentials}`
     }
     return fetch (url, options);

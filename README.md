@@ -41,9 +41,19 @@ Backend:
  * User authenticaion middleware + hashed passowrds + conditional API calls
 
 Frontend:
+* Basic HTML and CSS
 * Create React App
-*
-
+* Props / local state
+* React Router / dynamic navigation
+* React Context API / global state
+* Higher-Order React Components
+* Header + dynamic component renders
+* User authentication
+* REST API
+* Error handling (validation, unauthorized, 404, undhandled)
+* Misc middleware
+* Form submissions
+* Async function calls
 
 ## License
 
